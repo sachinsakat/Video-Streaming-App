@@ -36,7 +36,7 @@ const Feed = () => {
           variant="body2"
           sx={{ mt: 1.5, color: "#fff" }}
         >
-          Copyright 2023 Saibalji Kokate
+          Copyright 2024 Sachin Sakat
         </Typography>
       </Box>
       {/* Box for Videos */}
